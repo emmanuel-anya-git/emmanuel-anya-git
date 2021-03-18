@@ -1,2 +1,2 @@
-READ ME for jenkins-docker
+README for jenkins-docker
 To be completed.....
